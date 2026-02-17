@@ -96,11 +96,7 @@ file2.txt
 └─$ cat file1_backup.txt        
 Hello World
                                                                            
-┌──(hope247㉿kali)-[~/First-Task/My_project]
-└─$ world file4.txt                       
-world: command not found
-                                                                           
-                                                                           
+                                                                                                                                                      
 ┌──(hope247㉿kali)-[~/First-Task/My_project]
 └─$ ls
 Backup  file1_backup.txt  file1.txt  file3.txt  file4.txt
